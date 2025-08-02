@@ -6,7 +6,7 @@ questions = ("Who is the Father of the Nation ? : ",
 
 options = (("A.Nelson Mandela","B.Mahatma Gandhi","C.Rahul Gandhi","D.Indira Gandhi"),
            ("A.Albert Enstein","B.Nikola Tesla","C.A.P.J Abdul Kalam","D.Charles Babbage"),
-           ("A.Jawaharlal Nehru","B.Syed Numan","C.Sardar Vallabhai Patel","D.Rocky Bhai"),
+           ("A.Jawaharlal Nehru","B.Mahatma gandhi","C.Sardar Vallabhai Patel","D.Dr.B.R.Ambedkhar"),
            ("A.New Delhi","B.Beijing","C.Moscow","D.Baghdad"),
            ("A.116","B.117","C.119","D.118"))
 
